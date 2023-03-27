@@ -1,0 +1,15 @@
+OUTPUT:
+3
+t1
+t2
+t3
+[t1vst2,t1vst3,t2vst3]
+t1
+win:0
+loose:2
+t2
+win:1
+loose:1
+t3
+win:2
+loose:0
